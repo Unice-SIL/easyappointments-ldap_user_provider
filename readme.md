@@ -3,7 +3,7 @@
 This plugin allows you to fetch user in LDAP by username, verify if he is member of a LDAP group mapped with a Easyappointments role and create/update user in Easyappointments database.
 
 ### DISCLAIMER
-I developed and tested this plugin with easyappointments 1.2.1, I can't guarantee it will work with an other version.
+I developed and tested this plugin with easyappointments 1.2.1, I can't guarantee it will work with another version.
 
 ### REQUIRES
 You need to install [easyappointments-authentication](https://github.com/FredericCasazza/easyappointments-authentication) before use this plugin
@@ -148,3 +148,5 @@ const LDAP_USER_PROVIDER_MODEL_METHOD_UPDATE = 'update';
 
 ```
  
+ ### REPORT AN ISSUE
+ Send me an email to frederic.casazza@unice.fr
